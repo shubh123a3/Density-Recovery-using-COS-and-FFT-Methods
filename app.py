@@ -161,7 +161,8 @@ st.markdown("""
    - The COS method for LogNormal uses a change of variables, which can affect the interpretation of the truncation range [a, b].
 
 Experiment with different parameters to see how they affect the recovery accuracy and observe these insights in action!
-""")import streamlit as st
+""")
+import streamlit as st
 import numpy as np
 import plotly.graph_objects as go
 import scipy.stats as stats
