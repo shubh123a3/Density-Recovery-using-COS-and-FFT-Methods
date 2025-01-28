@@ -2,6 +2,10 @@
 
 A comprehensive implementation of numerical methods for recovering probability density functions from characteristic functions, featuring both COS (Cosine expansion) and FFT (Fast Fourier Transform) methods with applications to Normal and LogNormal distributions.
 
+
+https://github.com/user-attachments/assets/5a08149a-75f6-4c3e-92cd-8403adc2bff3
+
+
 ## Overview
 
 This project provides tools and implementations for recovering probability density functions using two distinct numerical approaches. It includes an interactive web application for visualization and comparison of different methods and parameters.
